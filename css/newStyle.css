@@ -1,0 +1,370 @@
+#main-header .nav-item .nav-link{
+    color: #4f4b4a;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-family: 'Cuprum', sans-serif
+}
+
+#company-detail-block .jumbotron{
+    background-color: transparent;
+}
+
+#company-detail-block .jumbotron .display-6{
+    color: #4f4b4a;
+}
+
+#features-block .outer-img-block-overlay{
+    background-color: #f8f8fa;
+    width: 500px;
+    height: 333px;
+    position: relative;
+    border-radius: 4px;
+}
+
+#features-block .outer-img-block-overlay img {
+    position: absolute;
+    top: 3.5em;
+    left: 3.5em;
+    border-radius: 4px;
+}
+
+
+#featuresBlock {
+    clear: both;
+    overflow: hidden;
+    margin: 3em 0 5em;
+}
+
+.fea_img_and_txt_block {
+    clear: both;
+    overflow: hidden;
+    height: 384px;
+}
+
+.fea_blk p {
+    margin-bottom: 4em;
+    margin-top: 1em;
+}
+
+.outer_img_block {
+    background-color: #f8f8fa;
+    width: 500px;
+    height: 333px;
+    position: relative;
+    border-radius: 4px;
+}
+
+.outer_img_block img {
+    position: absolute;
+    top: 3.5em;
+    left: 3.5em;
+    border-radius: 4px;
+}
+
+.outer_img_block.pull-right img {
+    left: -3.5em;
+}
+
+.fea_content_block.text-left {
+    padding-left: 0px;
+    padding-right: 4em;
+}
+
+.fea_content_block.text-left .divider_line {
+    left: 41em;
+    z-index: 1;
+}
+
+.fea_content_block {
+    position: relative;
+    margin-top: 6em;
+    padding-left: 4em;
+}
+
+.divider_line {
+    position: absolute;
+    top: 11px;
+    left: -70px;
+    border-radius: 1px;
+    width: 100px;
+    height: 3px;
+}
+
+.fea_heading {
+    font-size: 22px;
+    word-spacing: 2px;
+    font-family: fantasy;
+    letter-spacing: 1px;
+}
+
+.fea_img_and_txt_block.blueblk .fea_heading {
+    color: #86c8bc;
+}
+
+.fea_img_and_txt_block.blueblk .divider_line {
+    background-color: #86c8bc;
+}
+
+.fea_img_and_txt_block.blueblk .view_inv_btn {
+    background: #edf7f5;
+    color: #87c8bc;
+}
+
+.fea_img_and_txt_block.blueblk .view_inv_btn:hover {
+    background-color: #87c8bc;
+    color: #fff;
+}
+
+.fea_img_and_txt_block.purpleblk .fea_heading {
+    color: #725f88;
+}
+
+.fea_img_and_txt_block.purpleblk .divider_line {
+    background-color: #725f88;
+}
+
+.fea_img_and_txt_block.purpleblk .view_inv_btn {
+    background: #ece9ef;
+    color: #725f88;
+}
+
+.fea_img_and_txt_block.purpleblk .view_inv_btn:hover {
+    background-color: #725f88;
+    color: #fff;
+}
+
+.fea_img_and_txt_block.yellowblk .fea_heading {
+    color: #ffc845;
+}
+
+.fea_img_and_txt_block.yellowblk .divider_line {
+    background-color: #ffc845;
+}
+
+.fea_img_and_txt_block.yellowblk .view_inv_btn {
+    background: #fff7e3;
+    color: #ffc845;
+}
+
+.fea_img_and_txt_block.yellowblk .view_inv_btn:hover {
+    background-color: #ffc845;
+    color: #fff;
+}
+
+.fea_img_and_txt_block.redblk .fea_heading {
+    color: #fa6966;
+}
+
+.fea_img_and_txt_block.redblk .divider_line {
+    background-color: #fa6966;
+}
+
+.fea_img_and_txt_block.redblk .view_inv_btn {
+    background: #ffe6e7;
+    color: #fa6966;
+}
+
+.fea_img_and_txt_block.redblk .view_inv_btn:hover {
+    background-color: #fa6966;
+    color: #fff;
+}
+
+.extra_height_block {
+    width: 100%;
+    height: 14vh;
+}
+
+.fea_content {
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #b5b5b5;
+    font-style: italic;
+    margin-top: 1.5em;
+}
+
+.view_inv_btn {
+    display: inline-block;
+    border-radius: 5px;
+    width: 230px;
+    height: 50px;
+    margin: 2em 0 0 0;
+    padding: 0;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#details {
+    margin: 3em 0 3em 0;
+    text-align: center;
+}
+
+.detail {
+    position: relative;
+    /* width: 24%; */
+    text-align: left;
+    margin: 0 0 50px 0;
+    display: inline-block;
+    vertical-align: top;
+    /* min-width: 200px;
+    max-width: 325px; */
+}
+
+.detail .blip {
+    position: absolute;
+    top: -5px;
+    left: 0;
+    font-size: 32px;
+}
+
+.detail .copy {
+    margin: 0 0 0 2.5em;
+    color: #999;
+}
+
+.detail .copy b {
+    display: block;
+    margin-bottom: 6px;
+}
+
+#plans {
+    position: relative;
+    display: block;
+    background: #f8f7f9;
+    margin: 3em 0 3em 0;
+}
+
+.bg {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    background: #fff;
+}
+
+.plan {
+    display: inline-block;
+    position: relative;
+    width: 20%;
+    background-color: #fff;
+    margin: 0 1% 0 1%;
+    padding: 46px 5px;
+    text-align: center;
+    font-size: 16px;
+    overflow: hidden;
+    vertical-align: top;
+}
+
+.bluetext {
+    color: #86c8bc;
+    margin-left: 4.9em;
+}
+
+.plan.bluetext .bg {
+    background: #edf7f5;
+}
+
+.plan-title {
+    position: relative;
+}
+
+.plan-cost {
+    position: relative;
+    margin: 0;
+    font-size: 48px;
+}
+/* .plan.bluetext .plan-cost:before,
+.plan.purpletext .plan-cost:before,
+.plan.yellowtext .plan-cost:before,
+.plan.redtext .plan-cost:before {
+content: '$';
+font-size: 18px;
+position: absolute;
+top: 1.7em;
+right: 7.5em;
+} */
+/* .plan.yellowtext .plan-cost:before,
+.plan.redtext .plan-cost:before {
+right: 8.5em;
+} */
+
+.plan-monthly {
+    position: relative;
+    margin: 20px 0 0 0;
+    font-size: 12px;
+    line-height: 16px;
+    height: 35px;
+}
+/* .plan-details {
+position: relative;
+margin: 20px 0 0 0;
+line-height: 42px;
+} */
+
+.plan-details strong {
+    font-size: 20px;
+}
+
+.plan-fineprint {
+    position: relative;
+    font-size: 12px;
+    margin: 40px 0 0 0;
+    height: 45px;
+}
+
+.purpletext {
+    color: #725f88;
+}
+
+.plan.purpletext .bg {
+    background: #ece9ef;
+}
+
+.yellowtext {
+    color: #ffc845;
+}
+
+.plan.yellowtext .bg {
+    background: #fff7e3;
+}
+
+.redtext {
+    color: #fa6966;
+    margin-right: 0;
+}
+
+.plan.redtext .bg {
+    background: #ffe6e7;
+}
+
+#joinUs p {
+    margin-bottom: 2em;
+}
+
+#joinUs {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 3em;
+    padding-top: 2em;
+    background-color: #f3f3f3;
+}
+
+.plan-footer {
+    display: block;
+    font-size: 16px;
+    color: #a1a1a2;
+    margin: 0 auto 0 auto;
+    padding: 35px 0 35px 0;
+}
+
+
+
+
+
+@media only screen and (min-width: 576px)  {
+    #company-detail-block .jumbotron {}
+}
